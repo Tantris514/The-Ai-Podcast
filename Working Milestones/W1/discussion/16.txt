@@ -1,0 +1,9 @@
+11. Foster transparency in AI decision-making processes, particularly those that have a significant impact on individuals and society.
+
+12. Encourage the development of AI technologies that are aligned with human values and promote the common good, while minimizing the risk of harm and negative unintended consequences.
+
+13. Ensure that AI does not replace human empathy, judgment, and critical thinking, but rather enhances and complements these qualities.
+
+14. Develop guidelines and standards for AI transparency, accountability, and explainability, particularly in areas such as healthcare, education, and criminal justice.
+
+15. Foster diversity and inclusivity in AI development and deployment, including diverse representation among AI designers and users, and ensuring that AI systems are accessible to people with disabilities and other marginalized groups.

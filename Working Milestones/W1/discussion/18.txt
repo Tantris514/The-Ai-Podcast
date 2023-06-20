@@ -1,0 +1,9 @@
+21. Encourage continuous monitoring and testing of AI systems to identify potential biases and errors, and to ensure that they operate in a fair and responsible manner.
+
+22. Establish mechanisms for accountability and remediation in case of AI-related harms, including clear guidelines for responsible use, reporting mechanisms, and liability frameworks.
+
+23. Promote the development of ethical design principles and best practices for AI development and deployment, including principles of transparency, fairness, privacy, and human control.
+
+24. Encourage diversity and inclusivity in AI research and development teams, in order to reflect a broader range of perspectives and ensure that technologies are developed in a responsible and inclusive manner.
+
+25. Support interdisciplinary research on the social, economic, and ethical implications of AI, in order to better understand the potential impacts of these technologies and develop solutions to address societal challenges.

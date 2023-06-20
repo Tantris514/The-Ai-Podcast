@@ -1,0 +1,9 @@
+The United Nations has created several initiatives related to the development and governance of AI. The High-Level Panel on Digital Cooperation, formed in 2018, has called for global cooperation on issues such as AI policy. Additionally, the UN has established the AI for Good Global Summit, a yearly event that aims to use AI to achieve the UN's Sustainable Development Goals.
+
+The Organization for Economic Development and Cooperation (OECD) has founded the Council on AI, which works to coordinate AI policies, share information, and promote responsible AI development. They have also published the OECD Principles on AI, a set of policy recommendations for governments and organizations related to ethical AI development.
+
+The World Economic Forum (WEF) has established the Centre for the Fourth Industrial Revolution, which seeks to bring together stakeholders from industry, academia, and governments to foster innovation and address issues related to AI governance. Additionally, the WEF has published reports on AI policy and has led initiatives related to creating ethical guidelines for AI development.
+
+The Partnership on AI is a coalition of technology companies, non-profits, and academic institutions working together to promote the responsible development of AI. They have developed ethical guidelines and best practices for AI development and governance and aim to foster collaboration between stakeholders in the AI field.
+
+Overall, these organizations and initiatives demonstrate the importance of international collaboration and cooperation in the development and governance of AI. As this technology becomes increasingly important and ubiquitous, it is essential that we work together to ensure its benefits are distributed equitably and its risks are minimized.
