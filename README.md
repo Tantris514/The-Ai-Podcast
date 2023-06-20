@@ -23,4 +23,6 @@ Run
 1. Open a Powershell terminal
 2. Navigate to The-Ai-Podcast/Run folder
 3. Execute .\run.ps1
+
+You can also add an argument to make the AI talk about specific subjects. Ex: .\run.ps1 "Does lions should have the right to vote?"
    
